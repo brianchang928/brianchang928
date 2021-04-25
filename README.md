@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @viere1234
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning iOS Developing & Quantum Computing
+- 💞️ I’m looking to collaborate on iOS Development
