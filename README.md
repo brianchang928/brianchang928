@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Brian Chang
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning iOS Developing & Quantum Computing
+- 🌱 I’m currently learning iOS Developing in SwiftUI
 - 💞️ I’m looking to collaborate on iOS Development
