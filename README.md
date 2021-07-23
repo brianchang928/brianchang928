@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **SwiftUI**
 
-- 📫 How to reach me **brian@brianchang.tech**
+- 📫 Reach me  **brian@brianchang.tech**
 
 - 📄 Know about my experiences [brianchang.tech](brianchang.tech)
 
