@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Chang</h1>
-<h3 align="center">A passionate Apple developer in SwiftUI</h3>
+<h3 align="center">A very passionate Apple developer in SwiftUI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viere1234&label=Profile%20views&color=0e75b6&style=flat" alt="viere1234" /> </p>
 
