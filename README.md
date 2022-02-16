@@ -9,15 +9,11 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/viere1234/](https://github.com/viere1234/)
-
-- 📝 I regularly write articles on [brianchang.tech](brianchang.tech)
+- 👨‍💻 All of my projects are available at [https://www.brianchang.tech](https://www.brianchang.tech)
 
 - 💬 Ask me about **SwiftUI**
 
 - 📫 Reach me  **brian@brianchang.tech**
-
-- 📄 Know about my experiences [brianchang.tech](brianchang.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
