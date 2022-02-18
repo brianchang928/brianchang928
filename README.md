@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **SwiftUI**
 
-- 📫 Reach me  **brian@brianchang.tech**
+- 📫 Reach me  **me@brianchang.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
