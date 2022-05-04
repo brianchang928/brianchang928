@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Opass](https://github.com/CCIP-App/)
+- 🔭 I’m currently working in [OPass](https://github.com/CCIP-App/) on [CCIP-iOS/next](https://github.com/CCIP-App/CCIP-iOS/tree/next)
 
 - 🌱 I’m currently learning **SwiftUI**
 
