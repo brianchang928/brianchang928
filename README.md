@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Chang</h1>
 <h3 align="center">A very passionate Apple developer in SwiftUI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viere1234&label=Profile%20views&color=0e75b6&style=flat" alt="viere1234" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brianchang928&label=Profile%20views&color=0e75b6&style=flat" alt="brianchang928" /> </p>
 
 
 
@@ -9,16 +9,11 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/viere1234](https://github.com/viere1234)
+- 👨‍💻 Learn more about me at [My Personal Website](https://brianchang.tw)
 
-- 💬 Ask me about **SwiftUI**
+- 📫 Reach me at **brianchang928@gmail.com**
 
-- 📫 Reach me  **viere0928@gmail.com**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianchang928&show_icons=true&locale=en" alt="brianchang928" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viere1234&show_icons=true&locale=en" alt="viere1234" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viere1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianchang928&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
