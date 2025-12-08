@@ -5,6 +5,6 @@
 
 - 🏫 B.S. Student at National Taipei University
 
-- 👨‍💻 Learn more about me at [brianchang928.github.io](brianchang928.github.io)
+- 👨‍💻 Learn more about me at [brians.tw](brians.tw)
 
-- 📫 Reach me at **brianchang928[at]gmail.com**
+- 📫 Reach me through [Email](mailto:brianchang928@gmail.com)
