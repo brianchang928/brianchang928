@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianchang928&label=Profile%20views&color=0e75b6&style=flat" alt="brianchang928" /> </p>
 
-- 🏫 B.S. Student at National Taipei University
+- 🏫 M.S. Student at National Yang Ming Chiao Tung University
 
 - 👨‍💻 Learn more about me at [brians.tw](https://brians.tw)
 
